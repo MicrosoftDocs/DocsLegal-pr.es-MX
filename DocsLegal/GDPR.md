@@ -1,12 +1,13 @@
 ---
 # required metadata
+
 title: Reglamento General de Protección de Datos (RGPD)
 description: GDPR docs.microsoft.com.
 ms.topic: article
 layout: ContentPage
 ---
 
-# <a name="microsofts-gdpr-commitments-to-customers-of-our-generally-available-enterprise-software-products"></a>Compromisos RGPD de Microsoft hacia clientes de nuestros productos de software empresarial generalmente disponibles
+# Compromisos RGPD de Microsoft hacia clientes de nuestros productos de software empresarial generalmente disponibles
 
 **Introducción**
 
@@ -20,22 +21,22 @@ Sí. El RGPD requiere que los responsables del tratamiento de datos (como organi
 
 **¿Dónde puedo encontrar los compromisos contractuales con respecto al RGPD?**
 
-Puede encontrar los compromisos contractuales de Microsoft con respecto al RGPD en los [Términos de servicios online](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.microsoftvolumelicensing.com%2FDocumentSearch.aspx%3FMode%3D3%26DocumentTypeId%3D46&data=04%7C01%7Ccolvog%40microsoft.com%7C4d7ac59082394bd57e5808d57b0e0368%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636550222480031404%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwifQ%3D%3D%7C-1&sdata=tbYN10WQtaVgss%2FPzHELXV2VDU8J20VP5bmzIydEZYA%3D&reserved=0), los cuales proporcionan los compromisos de privacidad y seguridad, términos de tratamiento de datos de Microsoft y los Términos RGPD para servicios alojados por Microsoft a los cuales los clientes se suscriben en virtud de un contrato de licencia por volumen. Los Términos RGPD se encuentran en el Anexo 4 de los Términos de servicios online, al final del documento, y obligan a Microsoft a cumplir con los requisitos del encargado del tratamiento del artículo 28 del RGPD y otros artículos relevantes del RGPD. 
+Puede encontrar los compromisos contractuales de Microsoft con respecto al RGPD en el [Anexo de Protección de datos de los servicios online](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=2&Keyword=DPA), que proporciona los compromisos de privacidad y seguridad, términos de tratamiento de datos de Microsoft y los Términos RGPD para servicios alojados por Microsoft a los cuales los clientes se suscriben en virtud de un contrato de licencia por volumen. Mediante estos términos Microsoft se compromete a los requisitos de los encargados del tratamiento en el Artículo 28 del RGPD y otros artículos relativos. 
 
-Microsoft extiende los Términos del RGPD a todos los clientes de productos de software empresarial generalmente disponibles otorgados bajo licencia por nosotros o nuestras filiales en virtud de los términos de licencia de software de Microsoft, vigentes a partir del 25 de mayo de 2018, independientemente de la versión aplicable al software empresarial, en la medida en que Microsoft sea encargado o subencargado del tratamiento de datos personales en relación con dicho software y mientras que Microsoft continúe ofreciendo o siendo compatible con la versión. Los detalles de soporte pueden encontrarse en la Política de vida útil de Microsoft en https://support.microsoft.com/en-us/lifecycle.
+Microsoft amplía los Términos del RGPD a todos los clientes de nuestros productos Enterprise Software disponibles de forma general que tengan una licencia nuestra o de nuestros afiliados conforme a los términos de la licencia de software de Microsoft, vigente desde el 25 de mayo de 2018, independientemente de la versión aplicable de Enterprise Software, en la medida en que Microsoft sea un encargado del tratamiento o se le subcontrate como encargado del tratamiento de datos personales en relación con dicho software, y siempre que Microsoft continúe ofreciendo o dando soporte a la versión. Los detalles relacionados con el soporte se pueden encontrar en la Política de ciclo de vida de Microsoft en https://support.microsoft.com/en-us/lifecycle.
 
-Para fines de claridad, pueden aplicar compromisos diferentes o menos exigentes a software beta o de vista previa, software que haya sido modificado sustancialmente o cualquier software otorgado bajo licencia por Microsoft o nuestras filiales que no esté generalmente disponible al público o de otra forma no otorgado bajo licencia de conformidad con los términos de licencia del software Microsoft. Algunos productos pueden recolectar y enviar a Microsoft telemetría u otros datos de manera predeterminada; la documentación del producto proporciona información e instrucciones sobre cómo apagar o configurar dicha recolección telemétrica.
+Para evitar dudas, el software beta o de vista previa puede estar sujeto a compromisos diferentes o menores, al igual que el software que ha sido modificado sustancialmente, o cualquier software con licencia de Microsoft o de nuestras filiales que no esté generalmente disponible para el público o que no tenga otra licencia de según los términos de licencia de software de Microsoft. Algunos productos pueden recopilar y enviar telemetría u otros datos de forma predeterminada a Microsoft; la documentación del producto proporciona información e instrucciones sobre cómo desactivar o configurar dicha recopilación de telemetría.
 
 **¿Qué compromisos están en los Términos del RGPD?**
 
 Los Términos del RGPD de Microsoft reflejan los compromisos requeridos de los encargados del tratamiento en virtud del Artículo 28 del RGPD.  El Artículo 28 requiere que los encargados del tratamiento se comprometan a:
 
--   utilizar únicamente subencargados del tratamiento con el consentimiento del responsable del tratamiento y continúen siendo responsables por los subencargados del tratamiento;
--   tratar datos personales únicamente bajo indicaciones del responsable del tratamiento, incluyendo en lo referente a transferencias;
--   asegurarse de que las personas que traten los datos personales estén comprometidas con velar por su confidencialidad;
--   implementar medidas técnicas y organizacionales adecuadas para asegurar un nivel de seguridad de los datos personales adecuado según el riesgo;
--   asistir al responsable del tratamiento en sus obligaciones de responder a las solicitudes de los interesados para ejercer sus derechos en virtud del RGPD;
--   cumplir con los requisitos de notificación de incumplimiento y asistencia del RGPD;
--   asistir al responsable del tratamiento con las evaluaciones de impacto de protección de datos y consulta con autoridades supervisoras; 
--   eliminar o regresar datos personales al final de la prestación de los servicios; y
--   asistir al responsable del tratamiento con pruebas de cumplimiento del RGPD.
+-	utilizar únicamente subencargados del tratamiento con el consentimiento del responsable del tratamiento y continúen siendo responsables por los subencargados del tratamiento;
+-	tratar datos personales únicamente bajo indicaciones del responsable del tratamiento, incluyendo en lo referente a transferencias;
+-	asegurarse de que las personas que traten los datos personales estén comprometidas con velar por su confidencialidad;
+-	implementar medidas técnicas y organizacionales adecuadas para asegurar un nivel de seguridad de los datos personales adecuado según el riesgo;
+-	asistir al responsable del tratamiento en sus obligaciones de responder a las solicitudes de los interesados para ejercer sus derechos en virtud del RGPD;
+-	cumplir con los requisitos de notificación de incumplimiento y asistencia del RGPD;
+-	asistir al responsable del tratamiento con las evaluaciones de impacto de protección de datos y consulta con autoridades supervisoras; 
+-	eliminar o regresar datos personales al final de la prestación de los servicios; y
+-	asistir al responsable del tratamiento con pruebas de cumplimiento del RGPD.
