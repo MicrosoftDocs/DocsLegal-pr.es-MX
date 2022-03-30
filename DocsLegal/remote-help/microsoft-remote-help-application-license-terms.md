@@ -48,19 +48,19 @@ Los presentes términos de licencia constituyen un contrato entre usted y Micros
 
 2. **DATOS.** 
 
-    1. **Recopilación de datos.** El software puede recopilar información acerca de usted y su uso del software y enviarla a Microsoft. Microsoft puede utilizar esta información para proporcionar servicios y mejorar nuestros productos y servicios. Tiene la posibilidad de cancelar estas circunstancias pero no todas, tal como se describe en la documentación del producto.  Existen también ciertas funciones en el software que le pueden permitir recopilar datos de los usuarios de sus aplicaciones. Si utiliza estas funciones para permitir la recopilación de datos en sus aplicaciones, debe cumplir con la legislación aplicable, lo que incluye enviar los avisos correspondientes a los usuarios de sus aplicaciones. Puede obtener más información sobre la recopilación de datos y el uso en la documentación de ayuda y en la declaración de privacidad en [<u>https://aka.ms/privacy</u>](https://aka.ms/privacy). El uso del software implica su consentimiento a estas prácticas.
+    1. **Recopilación de datos.** El software puede recopilar información acerca de usted y su uso del software y enviarla a Microsoft. Microsoft puede utilizar esta información para proporcionar servicios y mejorar nuestros productos y servicios. Tiene la posibilidad de cancelar estas circunstancias pero no todas, tal como se describe en la documentación del producto.  Existen también ciertas funciones en el software que le pueden permitir recopilar datos de los usuarios de sus aplicaciones. Si utiliza estas funciones para permitir la recopilación de datos en sus aplicaciones, debe cumplir con la legislación aplicable, lo que incluye enviar los avisos correspondientes a los usuarios de sus aplicaciones. Puede obtener más información sobre la recopilación de datos y el uso en la documentación de ayuda y en la declaración de privacidad en [https://aka.ms/privacy](https://aka.ms/privacy). El uso del software implica su consentimiento a estas prácticas.
 
-    2. **Tratamiento de datos personales**. En la medida en que Microsoft es un encargado o subencargado del tratamiento de datos personales relacionados con el software, Microsoft asume los compromisos contemplados en los términos del Reglamento General de Protección de Datos de la Unión Europea para los términos de servicios en línea aplicables a todos los clientes, y que entró en vigor el 25 de mayo de 2018, en [<u>https://docs.microsoft.com/en-us/legal/gdpr</u>](https://docs.microsoft.com/en-us/legal/gdpr).
+    2. **Tratamiento de datos personales**. En la medida en que Microsoft es un encargado o subencargado del tratamiento de datos personales relacionados con el software, Microsoft asume los compromisos contemplados en los términos del Reglamento General de Protección de Datos de la Unión Europea para los términos de servicios en línea aplicables a todos los clientes, y que entró en vigor el 25 de mayo de 2018, en [https://docs.microsoft.com/en-us/legal/gdpr](https://docs.microsoft.com/en-us/legal/gdpr).
 
 3. **COBERTURA DE LA LICENCIA**. El software se cede bajo licencia y no es objeto de venta. Microsoft se reserva todos los derechos restantes. A menos que la legislación aplicable le dé más derechos a pesar de esta limitación, usted no debe (y no tendrá derecho a):
 
-    1.  trabajar en torno a ciertas limitaciones técnicas en el software que solo le permiten utilizarlo de ciertas formas;
+    1. trabajar en torno a ciertas limitaciones técnicas en el software que solo le permiten utilizarlo de ciertas formas;
 
-    2.  aplicar técnicas de ingeniería inversa, descompilar o desensamblar el software o intentar extraer el código fuente del software, excepto y en la medida en que lo requieran los términos de licencia de terceros que regulen el uso de determinados componentes de código abierto que puedan conformar el software;
+    2. aplicar técnicas de ingeniería inversa, descompilar o desensamblar el software o intentar extraer el código fuente del software, excepto y en la medida en que lo requieran los términos de licencia de terceros que regulen el uso de determinados componentes de código abierto que puedan conformar el software;
 
-    3.  quitar, minimizar, bloquear o modificar cualquier notificación de Microsoft o sus proveedores en el software;
+    3. quitar, minimizar, bloquear o modificar cualquier notificación de Microsoft o sus proveedores en el software;
 
-    4.  utilizar el software de alguna forma que sea contraria a la ley o crear o propagar malware; o
+    4. utilizar el software de alguna forma que sea contraria a la ley o crear o propagar malware; o
 
     5. compartir, publicar, distribuir o arrendar el software, proporcionarlo como solución alojada autónoma para que otros lo utilicen, o transferir el software o este contrato a cualquier tercero.
 
@@ -86,7 +86,7 @@ Los presentes términos de licencia constituyen un contrato entre usted y Micros
 
     10. No ayudar a otros a incumplir estas normas.
 
-5. **RESTRICCIONES EN MATERIA DE EXPORTACIÓN**. Usted debe cumplir todas las leyes y reglamentos nacionales e internacionales que sean de aplicación al software, lo que incluye restricciones respecto a destinos, usuarios finales y uso final. Para obtener más información sobre las restricciones en materia de exportación, visite [<u>https://aka.ms/exporting</u>](https://aka.ms/exporting).
+5. **RESTRICCIONES EN MATERIA DE EXPORTACIÓN**. Usted debe cumplir todas las leyes y reglamentos nacionales e internacionales que sean de aplicación al software, lo que incluye restricciones respecto a destinos, usuarios finales y uso final. Para obtener más información sobre las restricciones en materia de exportación, visite [https://aka.ms/exporting](https://aka.ms/exporting).
 
 6. **SERVICIOS DE SOPORTE TÉCNICO.** Microsoft no está obligado bajo este contrato a proporcionar servicios de soporte técnico para el software. Cualquier soporte técnico se facilita “tal cual”, “en el estado en que se encuentra” y sin garantías de ningún tipo. 
 
@@ -114,6 +114,6 @@ Los presentes términos de licencia constituyen un contrato entre usted y Micros
 
 12. **LIMITACIÓN Y EXCLUSIÓN DE DAÑOS. SI TIENE ALGÚN FUNDAMENTO PARA RECLAMAR DAÑOS A PESAR DE LA EXCLUSIÓN DE GARANTÍAS ANTERIOR, PODRÁ OBTENER DE MICROSOFT Y DE SUS PROVEEDORES ÚNICAMENTE UNA INDEMNIZACIÓN POR DAÑOS DIRECTOS HASTA LA CANTIDAD DE 5,00 USD. NO PODRÁ OBTENER INDEMNIZACIÓN ALGUNA POR DAÑOS DE OTRA ÍNDOLE, INCLUIDOS LOS EMERGENTES, ESPECIALES, INDIRECTOS O INCIDENTALES, ASÍ COMO TAMPOCO POR LOS DERIVADOS DE LUCRO CESANTE.**
 
-    Esta limitación se aplica a (a) todo lo relacionado con el software, los servicios, el contenido (lo que incluye el código) en sitios de Internet de terceros, o aplicaciones de terceros; y (b) las reclamaciones por incumplimiento de contrato, garantía o condición, responsabilidad objetiva, negligencia u otra responsabilidad extracontractual, o cualquier otra reclamación; en cada caso en la medida permitida por la legislación aplicable.
+    **Esta limitación se aplica a (a) todo lo relacionado con el software, los servicios, el contenido (lo que incluye el código) en sitios de Internet de terceros, o aplicaciones de terceros; y (b) las reclamaciones por incumplimiento de contrato, garantía o condición, responsabilidad objetiva, negligencia u otra responsabilidad extracontractual, o cualquier otra reclamación; en cada caso en la medida permitida por la legislación aplicable.**
 
-    También se aplica incluso si Microsoft conocía o debería haber conocido la posibilidad de que se produjesen dichos daños. La limitación o exclusión precedente puede no serle de aplicación a usted en caso de que su país, provincia o estado de residencia no admitan la exclusión o limitación de daños incidentales, emergentes o de otra índole.
+    **También se aplica incluso si Microsoft conocía o debería haber conocido la posibilidad de que se produjesen dichos daños. La limitación o exclusión precedente puede no serle de aplicación a usted en caso de que su país, provincia o estado de residencia no admitan la exclusión o limitación de daños incidentales, emergentes o de otra índole.**
