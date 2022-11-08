@@ -1,31 +1,31 @@
 ---
 title: Términos de uso
-description: Términos de uso para la documentación en docs.microsoft.com.
+description: Condiciones de uso para la documentación en learn.microsoft.com.
 keywords: ''
 author: ''
 manager: ''
-ms.date: 09/19/2018
+ms.date: 09/17/2022
 ms.topic: article
 ms.prod: legal
 ms.technology: ''
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
-ms.openlocfilehash: 904b079bf9580699105e1f73836cb8f1127c101f
-ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
+ms.openlocfilehash: f20755cc9856e52068eb3189dbd12ebf90e4761c
+ms.sourcegitcommit: cf1db1b6138ad34406183a2735eab11b3293b130
 ms.translationtype: HT
 ms.contentlocale: es-MX
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "141347449"
+ms.lasthandoff: 10/21/2022
+ms.locfileid: "148103188"
 ---
-# <a name="docsmicrosoftcom---terms-of-use"></a>docs.microsoft.com - Términos de uso
+# <a name="learnmicrosoftcom---terms-of-use"></a>docs.microsoft.com - Condiciones de uso
 
 ## <a name="acceptance-of-terms"></a>Aceptación de los Términos
 
-Los siguientes Términos de uso ("TDU") se aplican al uso que hace del sitio web de Microsoft Docs ([https://docs.microsoft.com](https://docs.microsoft.com), Perfil técnico ([https://techprofile.microsoft.com](https://techprofile.microsoft.com)) y cualquier servicio asociado. Microsoft se reserva el derecho de actualizar los TDU en cualquier momento sin previo aviso. La versión más actualizada de los TDU se puede consultar haciendo clic en el vínculo "Términos de uso" que se encuentra en la parte inferior de nuestras páginas web.
+Las siguientes Condiciones de uso (“CDU”) aplican al uso que le da al sitio web de Microsoft Learn ([https://learn.microsoft.com](https://learn.microsoft.com)), Tech Profile y cualquier servicio asociado. Microsoft se reserva el derecho de actualizar los TDU en cualquier momento sin previo aviso. La versión más actualizada de los TDU se puede consultar haciendo clic en el vínculo "Términos de uso" que se encuentra en la parte inferior de nuestras páginas web.
 
 ## <a name="description-of-service"></a>Descripción del Servicio
 
-A través de su sitio web Microsoft Docs, Tech Profile y servicios asociados, Microsoft le proporciona acceso a una variedad de recursos, entre los que se incluyen tutoriales de aprendizaje interactivos, documentación, videos, herramientas para desarrolladores, áreas de descargas, foros de comunicación e información sobre productos (denominados en conjunto "Servicios"). Los Servicios, incluidas las actualizaciones, mejoras, características nuevas y/o la agregación de cualquier propiedad web nueva estarán sujetos a los TDU.
+A través del sitio web de Microsoft Learn, Tech Profile y servicios asociados, Microsoft le ofrece acceso a una variedad de recursos que incluyen tutoriales de entrenamiento interactivos, documentación, videos, herramientas para desarrolladores, áreas de descargas, foros de comunicación e información sobre los productos (en conjunto, los “Servicios”). Los Servicios, incluidas las actualizaciones, mejoras, características nuevas y/o la agregación de cualquier propiedad web nueva estarán sujetos a los TDU.
 
 ## <a name="personal-and-non-commercial-use-limitation"></a>Restricción de uso personal y no comercial
 
@@ -35,7 +35,7 @@ Salvo que se estipule lo contrario, los Servicios son para uso personal y no com
 
 Su privacidad es importante para nosotros. Lea la [Declaración de Privacidad de Microsoft](https://privacy.microsoft.com/privacystatement) (la "Declaración de Privacidad"), ya que en ella se describen los tipos de datos que recopilamos sobre usted y sobre sus dispositivos, el uso que hacemos de tales datos, así como las bases jurídicas de que disponemos para procesar dichos datos. La Declaración de privacidad también describe cómo Microsoft utiliza las Presentaciones (tal y como se definen en el presente documento), comentarios, valoraciones o revisiones de los Servicios, comunicaciones, archivos, fotos, documentos, audio, obras digitales, transmisiones en vivo, videos y cualquier otro contenido que cargue, almacene, transmita o comparta a través de los Servicios (en conjunto, "Su Contenido"). Cuando el procesamiento se base en el consentimiento, y en la medida en que la ley lo permita, al aceptar estos Términos, usted otorga su consentimiento para la recopilación, el uso y la divulgación de Su Contenido y sus datos por parte de Microsoft conforme a lo descrito en la Declaración de privacidad. En algunos casos, proporcionaremos un aviso aparte y solicitaremos su consentimiento como se indica en la Declaración de privacidad.
 
-**Información y contenido públicos del usuario**: La información de usuario que proporcione (incluyendo su nombre de usuario, nombre para mostrar, imagen del avatar, biografía, cargo y organización y logros de usuario) puede ser vista por otros. Solo se le pedirá que proporcione un nombre de usuario y un nombre para mostrar para hacer uso de Tech Profile. Todos los demás campos son opcionales. Puede actualizar su nombre de usuario y su nombre para mostrar en cualquier momento. Microsoft también puede recopilar y mostrar públicamente la fecha en la que se registró con Tech Profile y su afiliación con Microsoft.
+**Información y contenido del usuario público**: la información que proporciona como usuario (incluyendo nombre de usuario, nombre para mostrar, imagen de perfil, biografía, puesto y organización y logros del usuario) pueden ser vistos por otros. Solo se le pedirá que proporcione un nombre de usuario y un nombre para mostrar para hacer uso de Tech Profile. Todos los demás campos son opcionales. Puede actualizar su nombre de usuario y su nombre para mostrar en cualquier momento. Microsoft también puede recopilar y mostrar públicamente la fecha en la que se registró con Tech Profile y su afiliación con Microsoft.
 
 Cualquier Contenido que publique públicamente también puede ser visto por otros. Puede eliminar ciertos tipos de Contenido después de que se hayan publicado, pero no todos los tipos de contenido se pueden eliminar después de haber sido publicados públicamente.
 
@@ -70,17 +70,17 @@ EN NINGÚN CASO MICROSOFT Y/O SUS RESPECTIVOS PROVEEDORES SERÁN RESPONSABLES PO
 
 Puede que necesite una cuenta de Microsoft, una cuenta de Active Directory de Azure o una cuenta de Tech Profile para acceder a algunos de los Servicios.
 
-**Cuenta Microsoft**. La cuenta Microsoft le permite iniciar sesión en productos, sitios web y servicios proporcionados por Microsoft y algunos socios de Microsoft. Para crear una cuenta Microsoft puede registrarse [online](https://signup.live.com/). Las cuentas de Microsoft están sujetas al [Contrato de Servicios de Microsoft](https://www.microsoft.com/servicesagreement/).
+**Cuenta Microsoft**. La cuenta Microsoft le permite iniciar sesión en productos, sitios web y servicios proporcionados por Microsoft y algunos socios de Microsoft. Para [crear una cuenta de Microsoft puede registrarse en línea](https://signup.live.com/). Las cuentas de Microsoft están sujetas al [Contrato de Servicios de Microsoft](https://www.microsoft.com/servicesagreement/).
 
-**Cuenta de Active Directory de Azure**. Puede tener una cuenta con Microsoft a través de una organización a la que pertenezca. Póngase en contacto con el administrador de su organización para obtener información sobre esta cuenta.
+**Cuenta de Azure Active Directory**. Puede tener una cuenta con Microsoft a través de una organización a la que pertenezca. Póngase en contacto con el administrador de su organización para obtener información sobre esta cuenta.
 
-**Cuenta de Tech Profile**. Su cuenta de Tech Profile le permite iniciar sesión en el sitio web de Microsoft Docs y utilizar los servicios asociados, incluido el acceso gratuito a recursos de aprendizaje, desbloquear logros, valorar, comentar, publicar contenido y utilizar otros servicios interactivos. Puede crear una cuenta de Tech Profile creando un nombre de usuario en [Tech Profile](https://techprofile.microsoft.com/) después de iniciar sesión con una cuenta Microsoft o una cuenta de Active Directory de Azure.
+**Cuenta de Tech Profile**. Su cuenta de Tech Profile le permite iniciar sesión en el sitio web de Microsoft Docs y utilizar los servicios asociados, así como acceder de forma gratuita a recursos de aprendizaje, desbloquear logros, valorar, comentar, publicar contenido y utilizar otros servicios interactivos. Puede crear una cuenta de Tech Profile creando un nombre de usuario en Tech Profile después de iniciar sesión con una cuenta Microsoft o una cuenta de Active Directory de Azure.
 
 Se compromete a no utilizar información falsa, inexacta o engañosa en el momento de registrarse para obtener una cuenta de Tech Profile. Usted es el único responsable de mantener la confidencialidad de su contraseña y de su cuenta. Asimismo, usted es absolutamente responsable de todas y cada una de las actividades que tengan lugar en esa cuenta. Usted acepta notificar a Microsoft inmediatamente acerca de cualquier uso no autorizado de su cuenta o cualquier otra infracción de seguridad. Microsoft no será responsable de las pérdidas que pueda sufrir como consecuencia de que otra persona utilice su contraseña o su cuenta, haya esto ocurrido con o sin su conocimiento. Sin embargo, usted podría ser responsable de las pérdidas que sufra Microsoft o cualquier tercero si otra persona utiliza su cuenta o contraseña. No podrá utilizar, en ningún momento, la cuenta de otra persona sin el permiso del titular de la cuenta.
 
 Si crea una cuenta de Tech Profile en nombre de una entidad como, por ejemplo, su negocio o empleador, usted manifiesta que dispone de la autoridad legal necesaria para vincular tal entidad a los presentes Términos. No puede transmitir sus credenciales de cuenta de Tech Profile a otro usuario u otra entidad. Para proteger la cuenta, mantenga la confidencialidad de los detalles de la cuenta. Usted es responsable de toda la actividad que tenga lugar en la cuenta de Tech Profile.
 
-Puede cerrar su cuenta de Tech Profile accediendo a la [configuración de la cuenta de Tech Profile aquí](https://techprofile.microsoft.com/edit/).
+Para cerrar su cuenta de Tech Profile, acceda a la configuración de la cuenta de Tech Profile.
 
 ## <a name="no-unlawful-or-prohibited-use"></a>Ningún uso ilícito o prohibido
 
@@ -88,7 +88,7 @@ Como condición de uso de los Servicios, no utilizará los Servicios para ningú
 
 ## <a name="use-of-services"></a>Uso de los Servicios
 
-Los Servicios pueden contener servicios de correo electrónico, servicios de boletines electrónicos, áreas de chat, grupos de noticias, foros, comunidades, páginas web personales, calendarios, álbumes de fotos, contenedores de archivos u otras aplicaciones de mensajes o comunicación diseñadas para permitirle la comunicación con otros usuarios. Usted acepta utilizar los Servicios únicamente para publicar, enviar y recibir mensajes y materiales que sean apropiados y, cuando corresponda, estén relacionados con dicho Servicio determinado. A modo de ejemplo, pero sin limitarse a ello, acepta que al utilizar los Servicios, no realizará ninguna de las siguientes acciones:
+Los Servicios pueden incluir servicios de correo electrónico, boletines electrónicos, áreas de chat, grupos de noticias, foros, comunidades, páginas web personales, calendarios, álbumes de fotos, contenedores de archivos u otras aplicaciones de mensajes o comunicación diseñadas para permitirle la comunicación con otros usuarios. Usted acepta utilizar los Servicios únicamente para publicar, enviar y recibir mensajes y materiales que sean apropiados y estén relacionados con dicho Servicio, cuando corresponda. A modo de ejemplo, pero sin limitarse a ello, acepta que al utilizar los Servicios, no realizará ninguna de las siguientes acciones:
 
 - Utilizar los Servicios con relación a encuestas, concursos, sistemas piramidales, cadenas de mensajes, correo electrónico basura, correo electrónico no deseado, mensajes molestos o mensajes duplicados o no solicitados (comerciales o de otra índole).
 - Difamar, insultar, acosar, hostigar, amenazar o infringir los derechos legales (como el derecho a la intimidad y el derecho de publicidad) de otros.
