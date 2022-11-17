@@ -1,16 +1,12 @@
 ---
+# required metadata
 title: Reglamento General de Protección de Datos (RGPD)
 description: RGPD en learn.microsoft.com.
 ms.topic: article
 ms.prod: legal
 layout: ContentPage
-ms.openlocfilehash: 1fd23b342c8822a527df59cf1785eb7cb1d0d9a4
-ms.sourcegitcommit: 4992204ccdcaf82cb72bf4aafe4526dbbaff2564
-ms.translationtype: HT
-ms.contentlocale: es-MX
-ms.lasthandoff: 09/27/2022
-ms.locfileid: "147979445"
 ---
+
 # <a name="microsofts-gdpr-commitments-to-customers-of-our-generally-available-enterprise-software-products"></a>Compromisos por parte de Microsoft relacionados con el RGPD para los clientes de nuestros productos de Enterprise Software generalmente disponibles
 
 **Introducción**
