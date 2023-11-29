@@ -4,7 +4,7 @@ description: Información sobre los Términos de uso, RGPD, Protección de la in
 author: GrantMeStrength
 ms.author: jken
 ms.prod: legal
-ms.topic: article
+ms.topic: legal
 ms.date: 11/25/2020
 ms.openlocfilehash: 7661b9449c2cfb1dc69231499c5d89f0f78ff96e
 ms.sourcegitcommit: 4992204ccdcaf82cb72bf4aafe4526dbbaff2564
