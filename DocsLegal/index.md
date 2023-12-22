@@ -4,13 +4,13 @@ description: 'Información sobre los Términos de uso, RGPD, Protección de la i
 author: GrantMeStrength
 ms.author: jken
 ms.prod: legal
-ms.topic: article
+ms.topic: legal
 ms.date: 11/25/2020
 ---
 
 
 
-# <a name="microsoft-legal-resources-on-learnmicrosoftcom"></a>Recursos legales de Microsoft en learn.microsoft.com
+# Recursos legales de Microsoft en learn.microsoft.com
 
 A continuación, se incluyen enlaces a recursos legales.
 
