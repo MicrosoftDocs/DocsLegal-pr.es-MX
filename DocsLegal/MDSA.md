@@ -1,15 +1,13 @@
 ---
-# required metadata
 title: Contrato para Desarrolladores de Microsoft
 description: Contrato para Desarrolladores de Microsoft learn.microsoft.com
 author: gregtouchton
 ms.service: active-directory
-ms.topic: article
 ms.date: 06/15/2018
 ms.author: grtoucht
 layout: ContentPage
 ---
-# <a name="microsoft-developer-agreement"></a>Contrato para Desarrolladores de Microsoft
+# Contrato para Desarrolladores de Microsoft
 
 ---
 Última actualización: julio de 2018
@@ -19,7 +17,7 @@ Este contrato se celebra entre usted y Microsoft Corporation (”Microsoft”) y
 Si suscribe este Contrato en nombre de una entidad como, por ejemplo, su empleador, manifiesta que dispone de la autoridad legal necesaria para vincular a tal entidad.
 Si especifica un nombre de empresa relacionado con el registro o el pedido de un Servicio, se considerará que realizó dicho pedido y suscribió este Contrato en nombre de esa organización o empresa. Los términos clave se definen en la Sección 10.
 
-## <a name="1-offerings"></a>1. Ofertas
+## 1. Ofertas
 
 1. **API.** Ciertos términos y condiciones rigen su acceso y uso de las API de Microsoft. Como desarrollador, usted es responsable de su aplicación y del cumplimiento de todas las leyes y normativas aplicables al uso de las API de Microsoft, incluidas las leyes y normativas que se aplican a la privacidad, los datos biométricos, la protección de datos y la confidencialidad de las comunicaciones. Nada de lo dispuesto en nuestros contratos rectores, o en el presente Contrato, se interpretará como la creación de una relación conjunta de controlador o subprocesador entre usted y Microsoft.
 
@@ -33,7 +31,7 @@ Si especifica un nombre de empresa relacionado con el registro o el pedido de un
 
 2. **Servicios.**
 
-    1. **Derecho de uso.**   Podemos otorgarle el derecho de acceder y usar los Servicios de acuerdo con el presente Contrato.
+    1. **Derecho de uso.**  Podemos otorgarle el derecho de acceder y usar los Servicios de acuerdo con el presente Contrato.
 
     2. **Modo de uso.** Usted no puede:
 
@@ -69,7 +67,7 @@ Si especifica un nombre de empresa relacionado con el registro o el pedido de un
 4. **Características de la versión preliminar.** Las características podrían disponibilizarse en Versiones preliminares.
     Las Versiones preliminares se proporcionan “TAL CUAL” y están excluidas de las garantías en la Sección 6 a continuación. Las Versiones preliminares pueden estar sujetas a compromisos de seguridad, cumplimiento, privacidad, disponibilidad, confiabilidad y soporte reducidos o diferentes, como se explica con más detalle en la Declaración de privacidad y en cualquier aviso adicional proporcionado con la Versión preliminar. Podemos cambiar o interrumpir las Versiones preliminares en cualquier momento sin previo aviso. También podemos optar por no lanzar una Versión preliminar en ”Disponibilidad general”, y, en caso de hacerlas ”Generalmente disponibles”, podemos cobrar por estas características.
 
-## <a name="2-software-and-microsoft-content"></a>2. Software y contenido de Microsoft
+## 2. Software y contenido de Microsoft
 
 1. **Usar el Software de Microsoft y el Contenido de Microsoft fuera del Servicio.**
     Microsoft puede proporcionarle Software o Contenido de Microsoft a través de los Servicios o como parte de ellos. La terminación o suspensión de este Contrato o del uso o acceso a los Servicios pone fin a su derecho de poseer o usar dicho Software o Contenido de Microsoft, a menos que se le otorgue una licencia por separado. La suspensión o terminación de un Plan de usuario pone fin al derecho de ese usuario a poseer o usar el Software o Contenido de Microsoft asociado con ese Plan de usuario o supeditado a él. Debe eliminar todas las copias de dicho Software o Contenido de Microsoft con licencia en virtud de este Contrato y destruir cualquier medio asociado al finalizar los derechos de posesión o uso asociados. Esta subsección no se aplica al Software de Microsoft al que se refiere la subsección (b) siguiente.
@@ -84,7 +82,7 @@ Si especifica un nombre de empresa relacionado con el registro o el pedido de un
 
 6. **Uso en el aula.** Las instituciones educativas acreditadas, como escuelas K-12, universidades y colegios privados o públicos, pueden descargar y reproducir el Contenido de Microsoft para su distribución en el aula con fines educativos.
 
-## <a name="3-security-and-privacy"></a>3. Seguridad y privacidad
+## 3. Seguridad y privacidad
 
 1. **Seguridad.** Mantenemos medidas técnicas y de organización, controles internos y rutinas de seguridad de datos destinadas a proteger los Datos de usuario contra la pérdida o el cambio accidentales, la divulgación o el acceso no autorizados o la destrucción ilegal.
 
@@ -108,7 +106,7 @@ Si especifica un nombre de empresa relacionado con el registro o el pedido de un
 
 5. **Supervisión y auditoría**. Podemos monitorear el acceso y uso de los Servicios (incluidos los productos y servicios aplicables, el sitio web, el Contenido y los datos) con el fin de supervisar el cumplimiento de este Contrato. Además del acceso y uso de los Servicios durante cinco años, debe permitir que Microsoft o su auditor, con previa notificación en un plazo razonable y a expensas de Microsoft, realicen auditorías del uso de los Servicios para verificar su cumplimiento del presente Contrato. Debe proporcionar a Microsoft acceso razonable a cualquier personal, local, información, sistemas, libros y registros relacionados con el uso de los Servicios para permitir que realice la auditoría. Si se le solicita, debe proporcionarnos una prueba del cumplimiento del presente Contrato.
 
-## <a name="4-customer-accounts-customer-conduct-and-feedback"></a>4. Cuentas de clientes, conducta del cliente y comentarios
+## 4. Cuentas de clientes, conducta del cliente y comentarios
 
 1. **Creación de cuenta.** Si alguno de los Servicios requiere que abra una cuenta, debe completar el proceso de registro proporcionándonos información actual, completa y exacta, según lo solicite el formulario de registro aplicable. No puede seleccionar un nombre de usuario o identificador de cuenta que suplante a otra persona, que sea o pueda ser ilegal, que pueda estar protegido por una marca comercial u otros derechos de propiedad, que sea vulgar u ofensivo o que pueda causar confusión. Nos reservamos el derecho de rechazar y/o reasignar estos nombres de usuario e identificadores de Servicio a nuestra entera discreción.
 
@@ -116,9 +114,9 @@ Si especifica un nombre de empresa relacionado con el registro o el pedido de un
 
 3. **Su conducta y la disponibilidad de contenido de terceros y enlaces a contenido de terceros**. No tenemos ninguna obligación de monitorear el contenido y las comunicaciones de terceros en los Servicios; sin embargo, nos reservamos el derecho de revisar y eliminar cualquier material publicado en los Portales de documentación a nuestra entera discreción. Los terceros que participan en los Servicios no son portavoces autorizados de Microsoft y sus opiniones no reflejan necesariamente las de Microsoft.
 
-4. **Envíos y comentarios.** No reclamamos la propiedad de ningún Envío a menos que las partes acuerden lo contrario. Sin embargo, al proporcionar un Envío, usted otorga irrevocablemente a Microsoft y sus filiales el derecho a realizar, usar, modificar, distribuir y comercializar el Envío de cualquier manera y para cualquier propósito (incluida la concesión al público en general del derecho de usarlo de acuerdo con este Contrato, lo que puede cambiar con el tiempo). Para los Envíos realizados para los Portales de documentación, otorga además el derecho de publicar información de identificación específica y detallada en la Declaración de privacidad en relación con el Envío. Estos derechos se otorgan de acuerdo con todos los derechos de propiedad intelectual aplicables que posee o controla. No se pagará ninguna compensación por el uso de sus Envíos. Microsoft no tiene la obligación de publicar o usar un Envío y puede, además, eliminarlo en cualquier momento. Al realizar un Envío, garantiza que posee o controla de alguna otra forma todos los derechos del mismo y que dicho Envío no está sujeto a los derechos de un tercero (entre ellos, los derechos de personalidad y publicidad de cualquier persona).
+4. **Envíos y comentarios.** No reclamamos la propiedad de ningún Envío a menos que las partes acuerden lo contrario. Sin embargo, al proporcionar un Envío, usted otorga irrevocablemente a Microsoft y sus filiales el derecho a realizar, usar, modificar, distribuir y comercializar el Envío de cualquier manera y para cualquier propósito (incluida la concesión al público en general del derecho de usarlo de acuerdo con este Contrato, lo que puede cambiar con el tiempo). Para los Envíos realizados para los Portales de documentación, otorga además el derecho de publicar información de identificación específica y detallada en la Declaración de privacidad en relación con el Envío. Estos derechos se otorgan de acuerdo con todos los derechos de propiedad intelectual aplicables que posee o controla. No se pagará ninguna compensación por el uso de sus Envíos. Microsoft no tiene la obligación de publicar o usar un Envío y puede, además, eliminarlo en cualquier momento. Al realizar un Envío, usted garantiza que posee o controla de alguna otra forma todos los derechos del mismo y que dicho Envíos no está sujeto a los derechos de un tercero (entre ellos, los derechos de personalidad y publicidad de cualquier persona).
 
-## <a name="5-termination-and-suspension"></a>5. Rescisión y suspensión
+## 5. Rescisión y suspensión
 
 1. **Su rescisión.** Usted puede rescindir este Contrato en cualquier momento. Si adquirió el acceso a los Servicios a través de Microsoft Azure, debe pagar cualquier monto adeudados y pendiente.
 
@@ -129,13 +127,13 @@ Si especifica un nombre de empresa relacionado con el registro o el pedido de un
 
 4. **Terminación por falta de uso.** Podemos suspender o cancelar una cuenta de Servicio después de un periodo prolongado de inactividad o por no responder a las comunicaciones de Microsoft. Si tiene una cuenta gratuita para los Servicios, podemos rescindir este Contrato y/o eliminar cualquier Dato de usuario generado automáticamente durante el proceso de registro de los Servicios si no carga o crea ningún Dato de usuario en un plazo de 90 días posteriores a su provisión inicial del Servicio. Le enviaremos un aviso antes de suspender o rescindir la cuenta, o de eliminar Datos de usuario.
 
-## <a name="6-warranties"></a>6. Garantías
+## 6. Garantías
 
-**SALVO QUE SE GARANTICE EN LOS TÉRMINOS ADJUNTOS, MICROSOFT Y SUS RESPECTIVOS PROVEEDORES PROPORCIONAN LOS SERVICIOS (INCLUIDO EL CONTENIDO DE MICROSOFT Y EL SOFTWARE DE MICROSOFT) ”TAL CUAL”, ”CON TODOS LOS DEFECTOS” Y ”SEGÚN LA DISPONIBILIDAD”. USTED ASUME EL RIESGO DE USARLO. NO OFRECEMOS AVALES, GARANTÍAS O CONDICIONES, YA SEAN EXPRESAS, IMPLÍCITAS, ESTATUTARIAS O DE OTRO TIPO, INCLUIDAS LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. ES POSIBLE QUE TENGA DERECHOS ADICIONALES EN VIRTUD DE LAS LEYES LOCALES QUE ESTE ACUERDO NO PUEDE CAMBIAR. ESTAS RENUNCIAS SE APLICARÁN EN LA MÁXIMA MEDIDA PERMITIDA POR LA LEGISLACIÓN APLICABLE, INCLUIDA LA APLICACIÓN A LAS GARANTÍAS IMPLÍCITAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN.**
+**EXCEPTO CUANDO SE GARANTIZA EN LOS TÉRMINOS SIGUIENTES, MICROSOFT Y SUS RESPECTIVOS PROVEEDORES PROPORCIONAN LOS SERVICIOS (INCLUIDOS EL CONTENIDO DE MICROSOFT Y EL SOFTWARE DE MICROSOFT) “TAL COMO ESTÁN”, CON” “TODOS LOS FALLOS” Y “CUANDO ESTÉN DISPONIBLES”. ACEPTA EL RIESGO DE UTILIZARLO. NO OFRECEMOS GARANTÍAS, GARANTÍAS O CONDICIONES, YA SEAN EXPRESAS, IMPLÍCITAS, REGLAMENTARIAS O DE OTRO TIPO, INCLUIDAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO EN PARTICULAR Y NO INFRACCIÓN DE DERECHOS. ES POSIBLE QUE LA LEGISLACIÓN LOCAL LE OTORGUE DERECHOS ADICIONALES QUE EL PRESENTE CONTRATO NO PUEDE MODIFICAR. EN LA MEDIDA EN QUE ASÍ LO PERMITA LA LEGISLACIÓN APLICABLE, MICROSOFT EXCLUYE TODAS LAS GARANTÍAS IMPLÍCITAS, INCLUIDAS LAS DE COMERCIALIZACIÓN, DE IDONEIDAD PARA UNA FINALIDAD PARTICULAR Y AUSENCIA DE INFRACCIÓN.**
 
-**Contenido y materiales de terceros. MICROSOFT NO CONTROLA, REVISA, AVALA O ACEPTA RESPONSABILIDAD ALGUNA POR CONTENIDOS, INFORMACIÓN, MENSAJES, MATERIALES O PROYECTOS DE TERCEROS, ACCESIBLES DESDE O VINCULADOS A TRAVÉS DE ESTE SOFTWARE Y, SALVO QUE SE GARANTICE EN UN CONTRATO POR SEPARADO, MICROSOFT NO EFECTÚA DECLARACIONES NI OTORGA GARANTÍAS DE NINGÚN TIPO, NI ASUME NINGÚN TIPO DE RESPONSABILIDAD POR NADA DE LO INDICADO PREVIAMENTE.**
+**Contenido y materiales de terceros. MICROSOFT NO CONTROLA, REVISA, AVALA O ACEPTA RESPONSABILIDAD ALGUNA POR CONTENIDOS, INFORMACIÓN, MENSAJES, MATERIALES O PROYECTOS DE TERCEROS, ACCESIBLES DESDE O VINCULADOS A TRAVÉS DE LOS SERVICIOS Y, SALVO QUE SE GARANTICE EN UN CONTRATO POR SEPARADO, MICROSOFT NO EFECTÚA DECLARACIONES NI OTORGA GARANTÍAS DE NINGÚN TIPO, NI ASUME NINGÚN TIPO DE RESPONSABILIDAD POR NADA DE LO INDICADO PREVIAMENTE. CUALQUIER TRATO QUE USTED PUEDA TENER CON DICHOS TERCEROS SE EFECTUARÁN A RIESGO DE USTED.**
 
-## <a name="7-defense-of-claims"></a>7. Defensa de reclamaciones
+## 7. Defensa de reclamaciones
 
 1. **Defensa.** Lo defenderemos contra cualquier reclamo realizado por un tercero no afiliado de que los Servicios o el Software infringen su patente, derechos de autor o marca comercial o hacen un uso ilegal de su secreto comercial. Usted nos defenderá contra cualquier reclamación realizada por un tercero no afiliado que surja de (1) el uso indebido por parte de usted o su usuario final de los Servicios, Contenido de Microsoft o Software de Microsoft; (2) la infracción del presente Contrato por parte de usted o su usuario final; y, (3) cualquier Contenido o datos enrutados hacia o usados con los Servicios, por sus usuarios finales o quienes actúan en su nombre.
 
@@ -145,15 +143,15 @@ Si especifica un nombre de empresa relacionado con el registro o el pedido de un
 
 4. **Obligaciones.** Cada parte debe notificar a la otra sin demora de una reclamación de acuerdo con la Sección 7. La parte que busca protección debe (1) dar a la otra el control exclusivo sobre la defensa y la resolución de la reclamación, y (2) dar ayuda razonable en la defensa de la reclamación. La parte que proporciona la protección (1) reembolsará a la otra parte los gastos razonables de bolsillo en los que incurra al brindar dicha ayuda y (2) pagará el monto de cualquier sentencia final adversa resultante (o arreglo acordado por la otra parte). Los derechos de las partes relativos a la defensa y el pago de sentencias o acuerdos en virtud de la Sección 7 sustituyen cualquier derecho de indemnización legal, de derecho consuetudinario o derechos análogos, y cada parte renuncia a estos.
 
-## <a name="8-limitation-of-liability"></a>8. Limitación de responsabilidad
+## 8. Limitación de responsabilidad
 
 1. **Limitación.** La responsabilidad total de cada parte en virtud de este Contrato se limita a daños directos hasta por el monto pagado (de acuerdo con el presente) por los Servicios de Desarrollador que dan lugar a dicha responsabilidad durante los 12 meses anteriores al surgimiento de la misma, o por los Servicios prestados de forma gratuita: quinientos dólares estadounidenses (\$500.00 USD).
 
-2. **EXCLUSIÓN. NINGUNA DE LAS PARTES NI SUS PROVEEDORES SERÁN RESPONSABLES DE LA PÉRDIDA DE INGRESOS, PÉRDIDA DE GANANCIAS O DAÑOS INDIRECTOS, ESPECIALES, INCIDENTALES, CONSECUENTES, PUNITIVOS O EJEMPLARES, INCLUSO SI LA PARTE SABÍA QUE ERAN POSIBLES.**
+2. **EXCLUSION. NINGUNA DE LAS PARTES NI SUS PROVEEDORES SERÁN RESPONSABLES DE LA PÉRDIDA DE INGRESOS, PÉRDIDA DE GANANCIAS O DAÑOS INDIRECTOS, ESPECIALES, INCIDENTALES, CONSECUENTES, PUNITIVOS O EJEMPLARES, INCLUSO SI LA PARTE SABÍA QUE ERAN POSIBLES.**
 
 3. **Excepciones a las limitaciones.** Los límites de responsabilidad en esta Sección 8 se aplican en la máxima medida permitida por la legislación aplicable, pero no se aplican a (1) las obligaciones de las partes en virtud de la Sección 7, o (2) al incumplimiento de las Secciones 3.2 a 3.4 o la violación de los derechos de propiedad intelectual de la otra parte.
 
-## <a name="9-miscellaneous"></a>9. Disposiciones varias
+## 9. Disposiciones generales
 
 1. **Reserva de derechos.** Microsoft se reserva todos los derechos no otorgados expresamente en el presente documento. Usted reconoce que todos los derechos de propiedad intelectual dentro de los Servicios siguen siendo propiedad de Microsoft y nada dentro de este Contrato actuará para transferirle ninguno de estos.
 
@@ -178,15 +176,15 @@ Si especifica un nombre de empresa relacionado con el registro o el pedido de un
 
 10. **Subsistencia.** 1.2, 2.3-2.6, 3.2, 3.5, 4.2, 4.4, 5, 6, 7, 8, 9, 10 y todas las demás definiciones.
 
-11. **Jurisdicción de exportación de Estados Unidos.** Los Servicios están sujetos a la jurisdicción de exportación de EE. UU. Debe cumplir con toda la legislación aplicable, incluyendo las Regulaciones de la Administración de Exportaciones de los Estados Unidos, las Regulaciones de Tráfico Internacional de Armas y las restricciones de usuario final, uso final y destino emitidas por Estados Unidos y otros gobiernos. Para obtener información adicional, consulte [Exportar productos de Microsoft](https://go.microsoft.com/fwlink/?linkid=306744).
+11. **Jurisdicción de exportación de Estados Unidos.** Los Servicios están sujetos a la jurisdicción de exportación de EE. UU. Debe cumplir todas las leyes aplicables, incluidas las Regulaciones de la Administración de Exportaciones de los Estados Unidos, las Regulaciones de Tráfico Internacional de Armas y las restricciones de usuario final, uso final y destino emitidas por Estados Unidos y otros gobiernos. Para obtener información adicional, consulte [Exportar productos de Microsoft](https://go.microsoft.com/fwlink/?linkid=306744).
 
 12. **Disponibilidad internacional.** La disponibilidad de los Servicios, así como las características específicas y las versiones de idioma, varían según el país.
 
 13. **Fuerza mayor.** Ninguna de las partes será responsable de ninguna falla en el rendimiento que se deba a causas fuera de su control razonable (como incendios, explosiones, apagones, sismos, inundaciones, tormentas severas, huelgas, embargos, disputas laborales, actos de autoridad civil o militar, guerras, terrorismo, incluido el terrorismo cibernético, etc.), hechos fortuitos, actos u omisiones de los operadores de tráfico de Internet, acciones u omisiones de organismos reguladores o gubernamentales (incluida la aprobación de leyes o regulaciones u otros actos de gobierno que afecten la prestación de los Servicios).
 
-14. **Modificaciones.** Podemos modificar este contrato en cualquier momento con o sin previo aviso individual al publicar una versión revisada en la sección de información legal de los Portales de documentación y Servicios para desarrolladores (o un sitio alternativo que identifiquemos), o notificándole de acuerdo con la Sección 9.b. Cualquier modificación será efectiva después de notificarle o realizar la publicación. **Si usa los Servicios después la entrada en vigor de los cambios significa que acepta las modificaciones al Contrato. Si no está de acuerdo con el nuevo Contrato, debe dejar de usar los Servicios.**
+14. **Modificaciones.** Podemos modificar este contrato en cualquier momento con o sin previo aviso individual al publicar una versión revisada en la sección de información legal de los Portales de documentación y Servicios para desarrolladores (o un sitio alternativo que identifiquemos), o notificándole de acuerdo con la Sección 9.b. Cualquier modificación será efectiva después de notificarle o realizar la publicación. **Si usa los Servicios después la entrada en vigor de los cambios significa que acepta las modificaciones al Contrato. Si no acepta el nuevo Contrato, debe dejar de usar los Servicios.**
 
-## <a name="10-definitions"></a>10. Definiciones
+## 10. Definiciones
 
 ”**Contenido**” se refiere a los documentos, fotografías, videos, datos y otros tipos de contenido gráfico, textual o audiovisual.
 
