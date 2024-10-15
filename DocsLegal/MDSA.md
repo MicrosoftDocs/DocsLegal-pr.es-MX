@@ -2,7 +2,7 @@
 title: Contrato para Desarrolladores de Microsoft
 description: Contrato para Desarrolladores de Microsoft learn.microsoft.com
 author: gregtouchton
-ms.service: active-directory
+ms.service: azure-active-directory
 ms.date: 06/15/2018
 ms.author: grtoucht
 layout: ContentPage
