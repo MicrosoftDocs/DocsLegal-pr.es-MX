@@ -1,10 +1,10 @@
 
-# <a name="general-data-protection-regulation-gdpr"></a>[Reglamento general de protección de datos (RGPD)](gdpr.md)
-# <a name="azure-software-licensing-terms"></a>[Términos de licencia del software de Azure](/legal/information-protection/software-license-terms)
-# <a name="microsoft-developer-agreement"></a>[Contrato para Desarrolladores de Microsoft](MDSA.md)
-# <a name="terms-of-use"></a>[Términos de uso](/legal/termsofuse)
-# <a name="learn-tv-code-of-conduct"></a>[Código de conducta de Learn TV](/legal/learntv/codeofconduct)
-# <a name="terms-of-learn-data-sharing"></a>[Condiciones de uso compartido de datos de Learn](/legal/learn/reporting/terms)
+# [Reglamento General de Protección de Datos (RGPD)](gdpr.md)
+# [Términos de licencia de software de Azure](/legal/information-protection/software-license-terms)
+# [Contrato para Desarrolladores de Microsoft](MDSA.md)
+# [Términos de uso](/legal/termsofuse)
+# [Código de conducta de Learn TV](/legal/learntv/codeofconduct)
+# [Condiciones de uso compartido de datos de Learn](/legal/learn/reporting/terms)
 
 <!--## [Basque](software-license-terms-eu-es.md) -->
 <!--## [Bulgarian](software-license-terms-bg-bg.md) -->
