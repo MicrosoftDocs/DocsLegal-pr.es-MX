@@ -2,6 +2,7 @@
 title: Reglamento general de protección de datos (RGPD)
 description: RGPD en learn.microsoft.com.
 ms.service: legal
+ms.topic: Legal
 layout: ContentPage
 ---
 
